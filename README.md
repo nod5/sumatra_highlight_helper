@@ -47,4 +47,6 @@ Sumatra Highlight Helper is really "feature request ware".
 I hope the Sumatra PDF devs try and like the features and make them native.  
 
 # SCREENSHOTS:
-see http://nod5.dcmembers.com/sumatra_highlight_helper.html
+http://imgur.com/5gaVDWJ
+http://imgur.com/pCN6Rbw
+http://imgur.com/AbQp6ga
