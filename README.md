@@ -1,12 +1,7 @@
 # sumatra_highlight_helper
 AutoHotkey helper script to add, remove and jump between different color highlights in Sumatra PDF reader
-
-#SUMATRA HIGHLIGHT HELPER
-
-Add, remove and jump between different color highlights in Sumatra PDF  
-  
-version 170523 -- free software GPLv3 -- made by nod5.dcmembers.com  
--- icon CC BY 3.0, p.yusukekamiyamane.com  
+ 
+version 170523 -- free software GPLv3 -- by nod5 -- icon CC BY 3.0, p.yusukekamiyamane.com  
   
 # SETUP:
 1. Must install Sumatra PDF Prerelease version   
