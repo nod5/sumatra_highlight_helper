@@ -3,7 +3,7 @@ AutoHotkey helper script to add, remove and jump between different color highlig
  
 version 170523 -- free software GPLv3 -- by nod5 -- icon CC BY 3.0, p.yusukekamiyamane.com  
   
-# SETUP:
+## SETUP:
 1. Must install Sumatra PDF Prerelease version   
    https://www.sumatrapdfreader.org/prerelease.html  
    (Needed for the highlight command.)  
@@ -11,7 +11,7 @@ version 170523 -- free software GPLv3 -- by nod5 -- icon CC BY 3.0, p.yusukekami
    Settings > Advanced Options > FullPathInTitle = true   
    (All needed for the script to work.)  
 
-# COMMANDS:  
+## COMMANDS:  
 H = Highlight selected text + autosaves it into pdfname.pdf.smx  
   
 Ctrl+H = Remove all highlighting on this pdf page  
@@ -37,11 +37,11 @@ Hold Mouse Lbutton + Mbutton = Remove all highlighting mouse moves over
   
 Mouse Lbutton + ScrollWheel Up/Down = Jump to next/prev highlight page  
   
-# NOTE:  
+## NOTE:  
 Sumatra Highlight Helper is really "feature request ware".   
 I hope the Sumatra PDF devs try and like the features and make them native.  
 
-# SCREENSHOTS:
+## SCREENSHOTS:
 https://imgur.com/AbQp6ga  
 https://imgur.com/pCN6Rbw  
 https://imgur.com/5gaVDWJ  
