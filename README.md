@@ -1,4 +1,7 @@
 # sumatra_highlight_helper
+
+**Archived. Use newer app https://github.com/nod5/HighlightJump **
+
 AutoHotkey helper script to add, remove and jump between different color highlights in Sumatra PDF reader
  
 version 170523 -- free software GPLv3 -- by nod5 -- icon CC BY 3.0, p.yusukekamiyamane.com  
